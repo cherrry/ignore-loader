@@ -1,7 +1,7 @@
 {
   "name": "ignore-loader",
   "description": "Webpack loader to ignore certain package on build.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/cherrry/ignore-loader.git"
