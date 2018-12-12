@@ -1,5 +1,6 @@
 {
   "name": "ignore-loader",
+  "license": "MIT",
   "description": "Webpack loader to ignore certain package on build.",
   "version": "0.1.2",
   "repository": {
